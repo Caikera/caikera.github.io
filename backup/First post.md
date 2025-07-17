@@ -1,1 +1,1 @@
-This tools seems pretty easy for use.
+This tool seems pretty easy for use.
